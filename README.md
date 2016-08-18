@@ -1,2 +1,2 @@
-# jigg-pipeline-test-java
+# jigg-pipeline-test-scala
 Repository for tasting jigg using by Java.
